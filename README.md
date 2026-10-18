@@ -2,6 +2,10 @@
 
 Browser-based dashboard for Kismet, NeoStumbler, and WiGLE exports.
 
+[![Live Demo](https://shields.io)](https://torressolutions.github.io/kismet-analyzer/)
+
+![Overview](docs/screenshots/overview.png)
+
 ## Use
 
 1. Open `kismet-analyzer.html` in a modern browser (or use GitHub Pages).
@@ -16,8 +20,6 @@ Browser-based dashboard for Kismet, NeoStumbler, and WiGLE exports.
 - CSV / JSON / MAC list export
 
 ## Screenshots
-
-![Overview](docs/screenshots/overview.png)
 
 ![Filters](docs/screenshots/filters.png)
 
